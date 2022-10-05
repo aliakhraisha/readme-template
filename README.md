@@ -7,14 +7,22 @@
 
 ## Built With
 
-- HTML, CSS, *************
-- VSC, github
+- HTML5
+- CSS3
+- Linters (Lighthouse, Webhint, Stylelint)
 
+## Prerequisites
 
-### Setup
+- A web browser (like Google Chrome, Opera...).
+- A code editor (like Atom, VScode...).
+
+## Setup
 
 - To clone this Repo run the this command on your terminal:
 git clone *********************************
+
+## Deployment
+To run the project open the downloaded folder (after extraction) then run the "index.html" file in your browser.
 
 ## Authors
 
@@ -36,8 +44,12 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Microverse readme file templet used.
+- The website design is from Figma
+- Hat tip to Microverse's code reviewers and to everyone who reviewed my project and made suggestions.
+- Icons are from Font Awesome.
 - Microverse project description.
+- Thank you ********** for contributing in the project (PR # *).
+
 
 ## 📝 License
 
